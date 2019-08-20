@@ -16,22 +16,33 @@
 
 ----------------
 
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-08-05）
+## 今日面试题 （2019-08-20）
 
-### [谈谈如何对网络请求进行优化？ ](https://github.com/Moosphan/Android-Daily-Interview/issues/114)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/114)
+### [手写二叉树结构？](https://github.com/Moosphan/Android-Daily-Interview/issues/125)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/125)
 
 ## 如何贡献？
 
 想加入这件有意义的事，并成为[**贡献者**](https://github.com/Moosphan/Android-Daily-Interview/blob/HEAD/android-interview/contributors.md)一员？很简单，你可以选择以下方式来完善和壮大这个项目：
 
-1. 参与每日答题，在 [**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
-2. 参与往期面试题的进一步解析和补充，稳固基石！
+1. 参与每日答题，在[**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
+2. 参与[**往期面试题的归纳、总结、完善或者扩展**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)，稳固基石！
 3. 前往👉[**后续面试题征集区域**](https://github.com/Moosphan/Android-Daily-Interview/issues/20)，提供更多优质面试题～
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 114 期**：[**Kotlin中 Unit 类型的作用以及与Java中 Void 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/124)
+- **第 113 期**：[**谈谈如何对WebView进行优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/123)
+- **第 112 期**：[**谈一谈如何判断一个链表成环？**](https://github.com/Moosphan/Android-Daily-Interview/issues/122)
+- **第 111 期**：[**谈谈你对原型模式的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/121)
+- **第 110 期**：[**谈谈List、Set以及Map的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/120)
+- **第 109 期**：[**谈谈 AIDL？**](https://github.com/Moosphan/Android-Daily-Interview/issues/119)
+- **第 108 期**：[**谈谈你对Java泛型中类型擦除的理解，并说说其局限性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/118)
+- **第 107 期**：[**谈一谈线程sleep()和wait()的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/117)
+- **第 106 期**：[**请举例说明Kotlin中with与apply函数的应用场景和区别？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/116)
+- **第 105 期**：[**说下切换横竖屏时Activity的生命周期？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/115)
+- **第 104 期**：[**谈谈如何对网络请求进行优化？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/114)
 - **第 103 期**：[**你知道哪些提升开发效率的骚操作？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/112)
 - **第 102 期**：[**如何处理大图的加载？**](https://github.com/Moosphan/Android-Daily-Interview/issues/111)
 - **第 101 期**：[**谈一谈java线程常见的几种锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/110)
